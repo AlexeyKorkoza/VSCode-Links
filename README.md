@@ -11,3 +11,6 @@ Links:
 
 Add next line in settings:<br/>
 `"emmet.triggerExpansionOnTab": true`
+
+Useful plugin <b>Import Cost</b>  
+Link: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
