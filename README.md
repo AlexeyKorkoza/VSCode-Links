@@ -10,7 +10,12 @@ Links:
 </ul>
 
 Add next line in settings:<br/>
-`"emmet.triggerExpansionOnTab": true`
+` 
+    "emmet.triggerExpansionOnTab": true,  
+    "editor.snippetSuggestions": "top",  
+    "workbench.startupEditor": "welcomePage",  
+    "files.autoSave": "afterDelay"  
+`
 
 Useful plugin <b>Import Cost</b>  
 Link: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
